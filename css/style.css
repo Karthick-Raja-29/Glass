@@ -141,7 +141,7 @@ ul li a{
     color: aliceblue;
 }
 .products1{
-    background-image: url("C:/Users/admin/Desktop/Glass/images/bgimg.jpg");
+    background-image: url("../images/bgimg.jpg");
     width: 280px;
     height: 400px;
     background-position: center;
@@ -149,7 +149,7 @@ ul li a{
     position: absolute;
 }
 .products2{
-    background-image: url("C:/Users/admin/Desktop/Glass/images/products2.jpg");
+    background-image: url("../images/products2.jpg");
     width: 280px;
     height: 400px;
     background-position: center;
@@ -157,7 +157,7 @@ ul li a{
     position: absolute;
 }
 .products3{
-    background-image: url("C:/Users/admin/Desktop/Glass/images/products3.jpg");
+    background-image: url("../images/products3.jpg");
     width: 280px;
     height: 400px;
     background-position: center;
@@ -198,7 +198,7 @@ ul li a{
     left:20px;
 }
 .eyewearproducts{
-    background-image: linear-gradient(90deg, #f0f5f5 50%, transparent 50%),url("C:/Users/admin/Desktop/INTERN Assignment/images/bgeyewear.jpg");
+    background-image: linear-gradient(90deg, #f0f5f5 50%, transparent 50%),url("../images/bgeyewear.jpg");
     background-size: cover;
 }
 .h6eyewear{
@@ -296,7 +296,7 @@ ul li a{
 
 .bgimg2{
     position: relative;
-    background-image: url("C:/Users/admin/Desktop/Glass/images/bg2top.jpg");
+    background-image: url("../images/bg2top.jpg");
     width: 100%;
     height:30vh;
     background-size: cover;
