@@ -90,7 +90,7 @@ ul li a{
 
 .bgimg{
     position: relative;
-    background-image: url("C:/Users/admin/Desktop/Glass/images/bgimg2.jpg");
+    background-image: url(".../images/bgimg2.jpg");
     height:95vh;
     width: 100%;
     background-size: cover;
